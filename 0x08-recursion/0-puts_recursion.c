@@ -2,8 +2,8 @@
 
 /**
  * _puts_recursion -> prints a string
- * @s = string parameter
- *
+ * @s = pointer to string parameter
+ * Return string
  */
 void _puts_recursion(char *s)
 {
